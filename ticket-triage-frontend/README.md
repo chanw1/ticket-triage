@@ -22,5 +22,5 @@ This is the Vue 3 frontend for Ticket Triage. It consumes the Laravel API and pr
 - New ticket modal
 - Ticket details page with editable fields
 - Run AI classification directly from list or details page
-- Export tickets to CSV
+- Export tickets to CSV 
 

@@ -19,7 +19,7 @@ This is the Laravel backend for Ticket Triage. It provides the REST API, manages
 4. Serve the API:
    php artisan serve
 
-## API Routes
+## API Routes 
 
 - GET /api/tickets (list with filters, pagination)
 - POST /api/tickets (create ticket)
