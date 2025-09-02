@@ -21,7 +21,7 @@ Ticket Triage is a support ticket management system that demonstrates a headless
 - PHP 8.2+
 - Composer
 - Node.js 18+ and npm
-- MySQL 8+
+- MySQL 8+ 
 - OpenAI API Key
 
 ## Setup
