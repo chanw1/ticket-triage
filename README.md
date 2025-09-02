@@ -28,6 +28,6 @@ Ticket Triage is a support ticket management system that demonstrates a headless
 
 1. Clone the repository
 2. Follow setup instructions in each subproject's README:
-   - [ticket-triage/README-backend.txt](ticket-triage/README-backend.txt)
-   - [ticket-triage-frontend/README-frontend.txt](ticket-triage-frontend/README-frontend.txt)
+   - [ticket-triage/README-backend.txt](ticket-triage/README.md)
+   - [ticket-triage-frontend/README-frontend.txt](ticket-triage-frontend/README.md)
 
