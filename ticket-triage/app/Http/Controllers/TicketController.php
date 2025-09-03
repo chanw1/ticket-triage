@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 use App\Jobs\ClassifyTicket;
 
 
-use App\Models\Ticket;        // ✅ import the model
+use App\Models\Ticket;        
 use Illuminate\Http\Request;
 
 class TicketController extends Controller
